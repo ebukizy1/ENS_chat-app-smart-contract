@@ -53,7 +53,7 @@ export default function Sidebar() {
           <div className="h-12 w-full flex items-center justify-between gap-2">
             <Avatar className="w-8 h-8">
               <AvatarImage
-                src={`https://bronze-gigantic-quokka-778.mypinata.cloud/ipfs/${currentUser[1]}`}
+                src={`https://amber-accepted-camel-969.mypinata.cloud/ipfs/${currentUser[1]}`}
               />
               <AvatarFallback className="text-xs">HI</AvatarFallback>
             </Avatar>
